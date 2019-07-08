@@ -1,0 +1,19 @@
+server:
+  port: 9001
+
+zuul:
+  filter:
+    pre: D:/temp/scripts/pre
+    route: D:/temp/scripts/route
+    post: D:/temp/scripts/post
+    error: D:/temp/scripts/error
+
+spring:
+  application:
+    name: outsideZuul
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /

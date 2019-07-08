@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../zuul-sample/zuul-core/zuul-core.iml" filepath="$PROJECT_DIR$/../zuul-sample/zuul-core/zuul-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zuul-sample/zuul-inside/zuul-inside.iml" filepath="$PROJECT_DIR$/../zuul-sample/zuul-inside/zuul-inside.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zuul-sample/zuul-outside/zuul-outside.iml" filepath="$PROJECT_DIR$/../zuul-sample/zuul-outside/zuul-outside.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-sample.iml" filepath="$PROJECT_DIR$/zuul-sample.iml" />
+    </modules>
+  </component>
+</project>
